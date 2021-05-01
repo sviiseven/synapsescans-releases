@@ -15,7 +15,7 @@
       },
       "2":{
          "title":"What Can I Do For Kami-sama?",
-         "volume":"10",
+         "volume":"1",
          "groups":{
             "synapse.":"/proxy/api/imgur/chapter/csycg2k/"
          },
@@ -23,7 +23,7 @@
       },
       "3":{
          "title":"Into the Girls' Academy",
-         "volume":"10",
+         "volume":"1",
          "groups":{
             "synapse.":"/proxy/api/imgur/chapter/2ql2rNc/"
          },
@@ -31,7 +31,7 @@
       },
       "4":{
          "title":"A Dance With the Moon",
-         "volume":"10",
+         "volume":"1",
          "groups":{
             "synapse.":"/proxy/api/imgur/chapter/gVo4c4K/"
          },
@@ -39,7 +39,7 @@
       },
       "5":{
          "title":"Let's Get Just a Little Bit Serious",
-         "volume":"10",
+         "volume":"1",
          "groups":{
             "synapse.":"/proxy/api/imgur/chapter/FRHVYnO/"
          },
@@ -47,11 +47,19 @@
       },
       "6":{
          "title":"No chapter title",
-         "volume":"10",
+         "volume":"2?",
          "groups":{
             "synapse.":"/proxy/api/imgur/chapter/Lx4haxM/"
          },
          "last_updated":"1617134170"
+      }
+      "7":{
+         "title":"Golden and Scarlet",
+         "volume":"2?",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/vrqGdYg/"
+         },
+         "last_updated":"1619837950"
       }
    }
 }
