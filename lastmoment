@@ -68,6 +68,14 @@
             "synapse.":"/proxy/api/imgur/chapter/5iYZV8I/"
          },
          "last_updated":"1625319297"
+      },
+      "9":{
+         "title":"Golden and Scarlet",
+         "volume":"2",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/iSRCNDp/"
+         },
+         "last_updated":"1628008665"
       }
    }
 }
