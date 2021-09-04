@@ -76,6 +76,14 @@
             "synapse.":"/proxy/api/imgur/chapter/iSRCNDp/"
          },
          "last_updated":"1628008665"
-      }
+      },
+      "10":{
+         "title":"The Training Camp's This and That",
+         "volume":"2",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/3bygGrD/"
+         },
+         "last_updated":"1630714174"
+      },
    }
 }
