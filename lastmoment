@@ -84,6 +84,14 @@
             "synapse.":"/proxy/api/imgur/chapter/3bygGrD/"
          },
          "last_updated":"1630714174"
+      },
+      "11":{
+         "title":"True Ability",
+         "volume":"2",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/o1oGWFh/"
+         },
+         "last_updated":"1633885256"
       }
    }
 }
