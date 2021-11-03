@@ -87,11 +87,19 @@
       },
       "11":{
          "title":"True Ability",
-         "volume":"2",
+         "volume":"",
          "groups":{
             "synapse.":"/proxy/api/imgur/chapter/o1oGWFh/"
          },
          "last_updated":"1633885256"
+      },
+      "12":{
+         "title":"Twilight",
+         "volume":"",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/0oTv525/"
+         },
+         "last_updated":"1635973817"
       }
    }
 }
