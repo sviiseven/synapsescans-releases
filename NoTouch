@@ -1,1 +1,17 @@
-
+{
+   "title":"No-Touch Challenge",
+   "description":"A short 4-pager from Tadataka. \n\n Tadataka's twitter: https://twitter.com/tadataka_k \n\n [//synapse. server invite: discord.gg/bT7sW2z]",
+   "artist":"Tsumikidou",
+   "author":"Kennoji",
+   "cover":"https://i.imgur.com/bN9cbp2.png",
+   "chapters":{
+      "1":{
+         "title":"Oneshot",
+         "volume":"",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/FNoZ4t4/"
+         },
+         "last_updated":"1636689533"
+      }
+   }
+}
