@@ -100,6 +100,14 @@
             "synapse.":"/proxy/api/imgur/chapter/0oTv525/"
          },
          "last_updated":"1635973817"
+      },
+      "13":{
+         "title":"I Can Do It",
+         "volume":"",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/uPWcTme/"
+         },
+         "last_updated":"1638908709"
       }
    }
 }
