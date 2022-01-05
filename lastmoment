@@ -108,6 +108,14 @@
             "synapse.":"/proxy/api/imgur/chapter/uPWcTme/"
          },
          "last_updated":"1638908709"
+      },
+      "14":{
+         "title":"Secret of the Moonlit Night",
+         "volume":"",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/6uC0pVq/"
+         },
+         "last_updated":"1641420915"
       }
    }
 }
