@@ -116,6 +116,14 @@
             "synapse.":"/proxy/api/imgur/chapter/6uC0pVq/"
          },
          "last_updated":"1641420915"
+      },
+      "15":{
+         "title":"Destiny (Part 1)",
+         "volume":"",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/772i1QF/"
+         },
+         "last_updated":"1646412930"
       }
    }
 }
