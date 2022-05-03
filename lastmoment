@@ -124,6 +124,22 @@
             "synapse.":"/proxy/api/imgur/chapter/772i1QF/"
          },
          "last_updated":"1646412930"
+      },
+      "16":{
+         "title":"Destiny (Part 2)",
+         "volume":"",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/b99aJVj/"
+         },
+         "last_updated":"1651620133"
+      },
+      "17":{
+         "title":"Reunion, and...",
+         "volume":"",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/As2ssnp/"
+         },
+         "last_updated":"1651620133"
       }
    }
 }
