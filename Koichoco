@@ -12,6 +12,14 @@
             "synapse.":"/proxy/api/imgur/chapter/YfLze4R/"
          },
          "last_updated":"1639024431"
+      },
+      "10":{
+         "title":"",
+         "volume":"2",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/vBftZT4/"
+         },
+         "last_updated":"1663390814"
       }
    }
 }
